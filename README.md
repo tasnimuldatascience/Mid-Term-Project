@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-Generative-AI
+# End-to-end-Chatbot-Generative-AI
 
 
 # How to run?
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 
-### Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
+### Create a `.env` file in the root directory and add your Pinecone & chatgroq/openai credentials as follows:
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
@@ -128,5 +128,12 @@ open up localhost:
    - ECR_REPO
    - PINECONE_API_KEY
    - GROQ_API_KEY
+
+## Example Chatbot Screenshot
+
+Here’s a preview of the chatbot interface:
+
+![Example Chatbot](static/example.png)
+
 
     
