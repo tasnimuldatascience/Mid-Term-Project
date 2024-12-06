@@ -138,7 +138,7 @@ This is an end-to-end chatbot project leveraging Generative AI, Pinecone, and La
 
 Here’s a preview of the chatbot interface with **voice input**:
 
-![Example Chatbot](assets/images/example.png)
+![Example Chatbot](static/example.png)
 
 ---
 
